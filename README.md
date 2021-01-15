@@ -1,2 +1,2 @@
 # Titanic
-Make take on the Titanic Challenge
+My take on the Titanic Challenge
